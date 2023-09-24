@@ -37,4 +37,4 @@ findServerByName(name);
 
 #### Output Video
 
-![OutputVideo](/Output/output.mp4)
+![OutputVideo](/Output/output.gif)
