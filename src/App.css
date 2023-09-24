@@ -1,0 +1,23 @@
+
+.green-styling{
+    background-color: rgb(107, 245, 107);
+}
+div .primary{
+    background-color:lightskyblue;
+}
+div .danger {
+    background-color: rgb(248, 78, 78);
+}
+.table{
+    
+    color : orange; 
+}
+
+
+td:hover{
+    color: aqua;
+}
+
+body{
+    background-color: #050505;
+}
